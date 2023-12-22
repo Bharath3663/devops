@@ -9,3 +9,12 @@ hi this is bharath
 i am from andhra
 i have done my btech in PRIST
 after that i have been working as software developer
+aws courses
+ec2
+vpc
+s3
+ami
+snapshots
+subnets
+cidr blocks
+linux
