@@ -5,5 +5,3 @@ Jenkins
 Kubernetes
 Docker
 and so on
-java
-java.Jenkins
