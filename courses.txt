@@ -1,0 +1,7 @@
+At present i am trying to learn devops
+In devops this are the following topics i should learn
+Git
+Jenkins 
+Kubernetes
+Docker
+and so on
