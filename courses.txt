@@ -17,4 +17,7 @@ ami
 snapshots
 subnets
 cidr blocks
-linux
+linex
+Kubernetes
+bharath vallabaneni
+mithra rudraraju
