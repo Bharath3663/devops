@@ -1,0 +1,10 @@
+/*
+Hi my name is bharath 
+I am from andhra
+I am trying to learn aws and devops
+At present i live in banglore
+devops is not that easy
+we should prcatice hard
+vallabaneni bharath chowdary
+hi this is second
+*/
