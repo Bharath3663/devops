@@ -1,4 +1,3 @@
-/*
 In the Name of Mahatma Gandhi
 
 Mahatma Gandhi, the Father of the Nation for India, was born on October 2, 1869, in Porbandar, a coastal town in present-day Gujarat.
@@ -47,4 +46,3 @@ In the name of Mahatma Gandhi, the world witnessed the power of non-violence as 
 idea that one individual, armed with principles of truth and love, could transform societies and inspire generations to come. As we 
 reflect on his legacy, we find lessons that are not confined to a specific time or place but resonate across cultures, reminding us of 
 the enduring power of compassion and the pursuit of justice.
-*/
